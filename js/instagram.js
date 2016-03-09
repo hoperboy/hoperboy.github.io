@@ -1,4 +1,5 @@
-var Instagram = (function(){
+﻿//test
+var Instagram = (function(){  
 
 	var _collection = [];
 
